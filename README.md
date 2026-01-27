@@ -1,4 +1,4 @@
-# Weather-Clustering
+# Weather-Classification
 Predict weather precipitation (Rain vs. Snow) using Machine Learning classifiers: Random Forest, KNN, Naive Bayes, and Logistic Regression. Includes comprehensive evaluation using ROC-AUC and Learning Curves.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
