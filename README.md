@@ -77,4 +77,4 @@ Model evaluation was conducted using **Accuracy** and **ROC-AUC Score**. Below i
 This experiment concludes that the **Random Forest Classifier** is the most accurate model for predicting precipitation type. It effectively handles **non-linear** feature interactions and shows greater resistance to noise compared to linear models like Logistic Regression.
 
 ---
-*Created by [Your Name]*
+*Created by [Nicolaus Prima Dharma]*
