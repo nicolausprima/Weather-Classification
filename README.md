@@ -43,9 +43,9 @@ Model evaluation was conducted using **Accuracy** and **ROC-AUC Score**. Below i
 | Model | Accuracy | AUC Score | Performance Analysis |
 | :--- | :--- | :--- | :--- |
 | **Random Forest** | **[1.0]** | **[1.0]** | **Best Model.** extremely robust in capturing non-linear relationships between features. |
-| **KNN** | *[0.98]* | *[0.984]* | Performed reasonably well but is computationally expensive on large datasets. |
-| **Naive Bayes** | *[0.94]* | *[0.987]* | Fast and efficient; serves as a strong baseline model. |
-| **Logistic Reg** | *[0.99]* | *[1.0]* | Provided solid results for simple linear relationships. |
+| **KNN** | **[0.98]** | **[0.984]** | Performed reasonably well but is computationally expensive on large datasets. |
+| **Naive Bayes** | **[0.94]** | **[0.987]** | Fast and efficient; serves as a strong baseline model. |
+| **Logistic Reg** | **[0.99]** | **[1.0]** | Provided solid results for simple linear relationships. |
 
 > *Note: Random Forest typically outperforms other models in this dataset due to its ability to handle complex interactions (e.g., Low Temperature + High Humidity = Snow).*
 
