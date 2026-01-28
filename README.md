@@ -62,7 +62,7 @@ Model evaluation was conducted using **Accuracy** and **ROC-AUC Score**. Below i
 ## 🚀 How to Run
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/weather-classification.git](https://github.com/your-username/weather-classification.git)
+    git clone [https://github.com/nicolausprima/weather-classification.git](https://github.com/nicolausprima/weather-classification.git)
     ```
 2.  Install the required libraries:
     ```bash
